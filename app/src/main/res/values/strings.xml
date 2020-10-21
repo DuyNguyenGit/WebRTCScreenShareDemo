@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebRTCScreenShareDemo</string>
+
+    <string name="host">107.118.72.67</string>
+    <string name="host_mac">10.1.2.182</string>
+    <string name="port">3000</string>
+    <string name="dialog_calling">%1$s is calling ……</string>
+    <string name="dialog_answer">Answer</string>
+    <string name="dialog_hangup">Hangup</string>
+    <string name="action_settings">Options</string>
+</resources>
